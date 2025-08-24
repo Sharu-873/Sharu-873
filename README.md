@@ -1,7 +1,11 @@
 <!-- Centered Cover Image -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP21HkXViZTn-pQU5kTzQ7XKGpijJC6HH3DiHbUBOyUAFEyPrAlFuVSJnDTr6jxr-e1go&usqp=CAU" alt="MasterHead" width="100%" />
+  <img src="https://repository-images.githubusercontent.com/532812401/14f410e8-4ae4-4d58-8fa7-d84262c30545" 
+       alt="MasterHead" 
+       width="100%" 
+       height="500px" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sharanya U Shetty</h1>
 <h3 align="center">An aspiring Data Scientist, AI/ML enthusiast, and Data Analyst from India</h3>
